@@ -1,6 +1,6 @@
 # Stroke-patient-healthcare
 
-###About Dataset
+ABOUT DATASET
 
 This dataset contains information about individuals and their health-related factors, which might be used for predictive analysis or health research, particularly in relation to stroke occurrence.
 
