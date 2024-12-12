@@ -1,5 +1,5 @@
 # Stroke-patient-healthcare
-[Visit](http://localhost:8501/)
+[View the webpage](http://localhost:8501/)
 
 
 ABOUT DATASET
